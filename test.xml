@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+	<record>
+		<leader>01559nam a2200421u  4500</leader>
+		<controlfield tag="001">99567040101488</controlfield>
+		<controlfield tag="005">20220901164916.0</controlfield>
+		<controlfield tag="008">790314s1539    fr |||| r|    000|0 mul c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">128122</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)000056704LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)99567040101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">lat</subfield>
+			<subfield code="a">heb</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Tabvla in grammaticen Hebræam</subfield>
+			<subfield code="c">autore Nicolao Clenardo.</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">Tabula in grammaticen Hebræam</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">Parisiis</subfield>
+			<subfield code="b">excudebat Christianus Wechelus</subfield>
+			<subfield code="c">1539</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">A-K8 ; 155, [5] p.</subfield>
+			<subfield code="g">8°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="510" ind1="4" ind2=" ">
+			<subfield code="a">Adams</subfield>
+			<subfield code="c">nihil</subfield>
+		</datafield>
+		<datafield tag="510" ind1="4" ind2=" ">
+			<subfield code="a">Bakelants &amp; Hoven</subfield>
+			<subfield code="c">5</subfield>
+		</datafield>
+		<datafield tag="510" ind1="4" ind2=" ">
+			<subfield code="a">Gistelinck</subfield>
+			<subfield code="c">nihil</subfield>
+		</datafield>
+		<datafield tag="542" ind1=" " ind2=" ">
+			<subfield code="l">public domain</subfield>
+			<subfield code="n">available as open data</subfield>
+			<subfield code="u">gebruiksvoorwaarden</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">UDC</subfield>
+			<subfield code="a">809.24</subfield>
+			<subfield code="x">Hebreeuws. Hebreeuwse taalkunde</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Clenardus, Nicolaus</subfield>
+			<subfield code="d">approximately 1493-1542</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">Wechel, Chrestien</subfield>
+			<subfield code="c">Paris</subfield>
+			<subfield code="d">active 1522-1554</subfield>
+			<subfield code="e">printer</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">https://www.ustc.ac.uk/editions/186184</subfield>
+			<subfield code="y">This edition in USTC</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE13979991/representation</subfield>
+			<subfield code="y">KU Leuven Libraries BCOL BRES CaaA1352</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">printer's device</subfield>
+			<subfield code="c">on title page and f. K8v.</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1501-1540</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE13979991</subfield>
+			<subfield code="e">CaaA1352</subfield>
+			<subfield code="y">1539</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">CaaA1352</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google_Books_selection_2019</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BIBC</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201602</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BCOL</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201912</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+	<record>
+		<leader>01747nam a2200409u  4500</leader>
+		<controlfield tag="001">991677530101488</controlfield>
+		<controlfield tag="005">20220901162337.0</controlfield>
+		<controlfield tag="008">810311s1640    be |||| r|    000|0 lat c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">389020</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)000167753LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)008003934LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)991677530101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">lat</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Andreæ Vallensis vulgò Del Vavlx ... Paratitla sive Svmmaria et methodica explicatio decretalivm D. Gregorii papæ IX.</subfield>
+			<subfield code="b">Opus novum, scholæ ac foro, &amp; decretis conc. Tridentini accommodatum.</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">Paratitla sive Summaria et methodica explicatio decretalium D. Gregorii papae IX</subfield>
+		</datafield>
+		<datafield tag="250" ind1=" " ind2=" ">
+			<subfield code="a">Editio tertia, emendatior &amp; indicibus auctior.</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">Lovanii</subfield>
+			<subfield code="b">apud Corn. Coenesteynivm</subfield>
+			<subfield code="c">1640</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">ã4, ẽ, õ4, ũ4, A-5Y4 ; [1], [1 blank], [30], 912 p.</subfield>
+			<subfield code="g">4°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="542" ind1=" " ind2=" ">
+			<subfield code="l">public domain</subfield>
+			<subfield code="n">available as open data</subfield>
+			<subfield code="u">gebruiksvoorwaarden</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Vallensis, Andreas</subfield>
+			<subfield code="d">1569-1636</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">Coenesteyn, Cornelis</subfield>
+			<subfield code="c">Leuven</subfield>
+			<subfield code="d">active 1626-1656?</subfield>
+			<subfield code="e">printer</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">http://anet.be/record/stcv/stcvopac/c:stcv:12914006</subfield>
+			<subfield code="y">This edition in STCV</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE13589837/representation</subfield>
+			<subfield code="y">KU Leuven Libraries BCOL BRES CaaA1850</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">printer's device</subfield>
+			<subfield code="c">on title page</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">tail piece(s)</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1601-1650</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE13589837</subfield>
+			<subfield code="e">CaaA1850</subfield>
+			<subfield code="y">1640</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">CaaA1850</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google_Books_selection_2019</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BIBC</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201603</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BCOL</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201912</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+	<record>
+		<leader>02147nam a2200469u  4500</leader>
+		<controlfield tag="001">995193970101488</controlfield>
+		<controlfield tag="005">20220901162918.0</controlfield>
+		<controlfield tag="008">841024s1594    be |||| r|    000|0 lat c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">1210816</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)000519397LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)995193970101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">lat</subfield>
+			<subfield code="a">grc</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Meditationes græcanicæ in artem grammaticam;</subfield>
+			<subfield code="b">in eorum gratiam, qui viua præceptoris voce destituuntur, &amp; literas græcas suo ipsi ductu discere coguntur:</subfield>
+			<subfield code="c">auctore Nicolao Clenardo.</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">Meditationes graecanicae in artem grammaticam; in eorum gratiam, qui viva praeceptoris voce destituuntur, &amp; literas graecas suo ipsi ductu discere coguntur</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">Antverpiæ</subfield>
+			<subfield code="b">ex officina Plantiniana, apud viduam &amp; Ioannem Moretum</subfield>
+			<subfield code="c">1594</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="3">
+			<subfield code="a">Antverpiæ</subfield>
+			<subfield code="b">ex officina Plantiniana</subfield>
+			<subfield code="c">1592</subfield>
+			<subfield code="3">colophon</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">A-G8 ; 100, [11], [1 blank] p.</subfield>
+			<subfield code="g">8°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="510" ind1="4" ind2=" ">
+			<subfield code="a">Bakelants &amp; Hoven</subfield>
+			<subfield code="c">307</subfield>
+		</datafield>
+		<datafield tag="542" ind1=" " ind2=" ">
+			<subfield code="l">public domain</subfield>
+			<subfield code="n">available as open data</subfield>
+			<subfield code="u">gebruiksvoorwaarden</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Universiteitsgeschiedenis (kennisdomein)</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">UDC</subfield>
+			<subfield code="a">875</subfield>
+			<subfield code="x">Griekse literatuur</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Clenardus, Nicolaus</subfield>
+			<subfield code="d">approximately 1493-1542</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Canta, Jacobus</subfield>
+			<subfield code="c">Card.</subfield>
+			<subfield code="e">dedicatee</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">Plantijn, Christoffel (widow)</subfield>
+			<subfield code="c">Antwerpen</subfield>
+			<subfield code="d">active 1589-1597</subfield>
+			<subfield code="e">printer</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">Moretus, Joannes I</subfield>
+			<subfield code="c">Antwerpen</subfield>
+			<subfield code="d">active 1589-1609</subfield>
+			<subfield code="e">printer</subfield>
+		</datafield>
+		<datafield tag="773" ind1="1" ind2=" ">
+			<subfield code="i">Bound with</subfield>
+			<subfield code="w">(BeLVLBS)002348230LBS01-Aleph</subfield>
+			<subfield code="g">no:009202150</subfield>
+			<subfield code="9">unrelated</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">https://www.ustc.ac.uk/editions/412979</subfield>
+			<subfield code="y">This edition in USTC</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE14276220/representation</subfield>
+			<subfield code="y">KU Leuven Libraries BCOL BRES CaaA1367-2</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">printer's device</subfield>
+			<subfield code="c">on title page</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">tail piece(s)</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1541-1600</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE14276220</subfield>
+			<subfield code="e">CaaA1367-2</subfield>
+			<subfield code="y">1594</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">CaaA1367</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google_Books_selection_2019</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BCOL</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">202001</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+	<record>
+		<leader>01614nam a2200397u  4500</leader>
+		<controlfield tag="001">9910985600101488</controlfield>
+		<controlfield tag="005">20220901154936.0</controlfield>
+		<controlfield tag="008">891128s1697    be |||| r|    000|0 lat c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">3133773</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)001098560LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)9910985600101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">lat</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Martini Steyaert Manifesta provocatio scriptoris non infami saltem igne famosi:</subfield>
+			<subfield code="b">quocum disceptet de editione operum M. Baji, ...</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">Manifesta provocatio scriptoris non infami saltem igne famosi:</subfield>
+			<subfield code="b">quocum disceptet de editione operum M. Baji, ...</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">Lovanii</subfield>
+			<subfield code="b">typis H. Van Overbeke</subfield>
+			<subfield code="c">1697</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">[A]2 ; [2] f.</subfield>
+			<subfield code="g">4°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="542" ind1=" " ind2=" ">
+			<subfield code="l">public domain</subfield>
+			<subfield code="n">available as open data</subfield>
+			<subfield code="u">gebruiksvoorwaarden</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="699" ind1=" " ind2=" ">
+			<subfield code="a">Herkomstcollectie Heverlee: S.J.</subfield>
+			<subfield code="g">CometaMSB</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Baius, Michael</subfield>
+			<subfield code="d">1513-1589</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Steyaert, Martinus</subfield>
+			<subfield code="d">1647-1701</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">Van Overbeke, Henricus</subfield>
+			<subfield code="c">Leuven</subfield>
+			<subfield code="d">active 1690-1736</subfield>
+			<subfield code="e">printer</subfield>
+		</datafield>
+		<datafield tag="773" ind1="1" ind2=" ">
+			<subfield code="i">Bound with</subfield>
+			<subfield code="w">(BeLVLBS)001098553LBS01-Aleph</subfield>
+			<subfield code="g">no:003133763</subfield>
+			<subfield code="9">unrelated</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE13181209/representation</subfield>
+			<subfield code="y">KU Leuven Libraries GBIB GBIB P279.102.0/Qo* BAIU Oper-2</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">NO DEDUP</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">head piece(s)</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1651-1700</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE13181209</subfield>
+			<subfield code="e">P279.102.0/Qo* BAIU Oper-2</subfield>
+			<subfield code="y">1697</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">P279.102.0/Qo* BAIU Oper</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google_Books_selection_2019</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">GBIB</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">202001</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+	<record>
+		<leader>02110nam a2200493u  4500</leader>
+		<controlfield tag="001">9911011140101488</controlfield>
+		<controlfield tag="005">20220901134616.0</controlfield>
+		<controlfield tag="008">891207s1599    gw |||| r|    000|0 lat c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">3143712</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)001101114LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)9911011140101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">lat</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Roberti Bellarmini ... De translatione imperii romani a Græcis ad Francos, libri tres, aduersus Matthiam Flaccivm Illyricvm.</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">De translatione imperii romani a Graecis ad Francos, libri tres, adversus Matthiam Flaccium Illyricum.</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">Coloniae Agrippinae</subfield>
+			<subfield code="b">apud Ioannem Gymnicum</subfield>
+			<subfield code="c">1599</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">A-P8, Q4 ; 245, [1], [2 blank] p.</subfield>
+			<subfield code="g">8°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="510" ind1="4" ind2=" ">
+			<subfield code="a">Adams</subfield>
+			<subfield code="c">nihil</subfield>
+		</datafield>
+		<datafield tag="510" ind1="4" ind2=" ">
+			<subfield code="a">PBN</subfield>
+			<subfield code="c">nihil</subfield>
+		</datafield>
+		<datafield tag="542" ind1=" " ind2=" ">
+			<subfield code="l">public domain</subfield>
+			<subfield code="n">available as open data</subfield>
+			<subfield code="u">gebruiksvoorwaarden</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">#GBIB: jesuitica</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">UDC</subfield>
+			<subfield code="a">943.015</subfield>
+			<subfield code="x">Geschiedenis van Duitsland: Karel De Grote; Karolingers--(687-843)</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="699" ind1=" " ind2=" ">
+			<subfield code="a">Herkomstcollectie Vaalbeek: O.F.M.</subfield>
+			<subfield code="g">CometaMSB</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Bellarmino, Roberto</subfield>
+			<subfield code="c">S.J., card.</subfield>
+			<subfield code="d">1542-1621</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Flacius, Matthias</subfield>
+			<subfield code="d">1520-1575</subfield>
+			<subfield code="e">other</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">Gymnich, Johann IV</subfield>
+			<subfield code="c">Köln</subfield>
+			<subfield code="d">active 1597-1634</subfield>
+			<subfield code="e">bookseller</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="1">
+			<subfield code="u">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10183154-1</subfield>
+			<subfield code="y">Digitized version</subfield>
+			<subfield code="z">Bayerische Staatsbibliothek</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">http://gateway-bayern.de/VD16+B+1627</subfield>
+			<subfield code="y">This edition in VD16</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">https://www.ustc.ac.uk/editions/691232</subfield>
+			<subfield code="y">This edition in USTC</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE13224778/representation</subfield>
+			<subfield code="y">KU Leuven Libraries GBIB GBIB P279.312.4 BELL Tran</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">NO DEDUP</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">printer's device</subfield>
+			<subfield code="c">on title page ; S.J. logo</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">tail piece(s)</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ruled borders</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1541-1600</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE13224778</subfield>
+			<subfield code="e">P279.312.4 BELL Tran</subfield>
+			<subfield code="y">1599</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">P279.312.4 BELL Tran</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google_Books_selection_2019</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">GBIB</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">202001</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+	<record>
+		<leader>02123nam a2200481u  4500</leader>
+		<controlfield tag="001">9911052860101488</controlfield>
+		<controlfield tag="005">20220901162119.0</controlfield>
+		<controlfield tag="008">891229s1570    it |||| r|    000|0 lat c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">3160268</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)001105286LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)9911052860101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">lat</subfield>
+			<subfield code="a">grc</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Nicolai Clenardi Institvtiones lingvae. graecae</subfield>
+			<subfield code="c">cvm. scholiis. et. praxi P. Antesignani</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">Institutiones linguae. graecae cum. scholiis. et. praxi P. Antesignani</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">Venetiis</subfield>
+			<subfield code="b">in aedib. Manutianis</subfield>
+			<subfield code="c">1570</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">*8, 2*4, A-2N8 (2N7-8 blank) ; [24], 538, [33], [5 blank] p.</subfield>
+			<subfield code="g">8°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="510" ind1="4" ind2=" ">
+			<subfield code="a">Bakelants &amp; Hoven</subfield>
+			<subfield code="c">208</subfield>
+		</datafield>
+		<datafield tag="510" ind1="4" ind2=" ">
+			<subfield code="a">PBN</subfield>
+			<subfield code="c">nihil</subfield>
+		</datafield>
+		<datafield tag="542" ind1=" " ind2=" ">
+			<subfield code="l">public domain</subfield>
+			<subfield code="n">available as open data</subfield>
+			<subfield code="u">gebruiksvoorwaarden</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">UDC</subfield>
+			<subfield code="a">807.5-5</subfield>
+			<subfield code="x">Grieks: grammatica</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Clenardus, Nicolaus</subfield>
+			<subfield code="d">approximately 1493-1542</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Antesignanus, Petrus</subfield>
+			<subfield code="d">1525-1561</subfield>
+			<subfield code="e">contributor</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Glorierius, Julius</subfield>
+			<subfield code="c">O.Cist.</subfield>
+			<subfield code="e">dedicatee</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">Manuzio, Aldo II</subfield>
+			<subfield code="c">Venezia</subfield>
+			<subfield code="d">active 1567-1595</subfield>
+			<subfield code="e">bookseller</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">http://id.sbn.it/bid/CNCE012703</subfield>
+			<subfield code="y">This edition in SBN OPAC</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">https://edit16.iccu.sbn.it/resultset-titoli/-/titoli/detail/CNCE12703</subfield>
+			<subfield code="y">This edition in EDIT16</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">https://www.ustc.ac.uk/editions/823288</subfield>
+			<subfield code="y">This edition in USTC</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="1">
+			<subfield code="u">https://books.google.be/books?id=wuva8i2XO2UC</subfield>
+			<subfield code="y">Digitized version in Google Books</subfield>
+			<subfield code="z">Biblioteca di Cremona</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE14274366/representation</subfield>
+			<subfield code="y">KU Leuven Libraries BCOL BRES CaaA1366</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">portrait(s)</subfield>
+			<subfield code="c">of Aldo Manuzio I on verso of title page</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">printer's device</subfield>
+			<subfield code="c">of Aldo Manuzio II on title page</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1541-1600</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE14274366</subfield>
+			<subfield code="e">CaaA1366</subfield>
+			<subfield code="y">1570</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">CaaA1366</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google_Books_selection_2019</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BCOL</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">202001</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+	<record>
+		<leader>01954nam a2200445u  4500</leader>
+		<controlfield tag="001">9911787760101488</controlfield>
+		<controlfield tag="005">20220901164656.0</controlfield>
+		<controlfield tag="008">901018q1522    xx |||| r|    000|0 lat c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">3473920</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)001178776LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)9911787760101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">lat</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Copia breuis S. D. N. Adriani VI. in summum Pontificem electi ad sacrosanctum cardinalium collegium.</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">Copia brevis S. D. N. Adriani VI. in summum Pontificem electi ad sacrosanctum cardinalium collegium.</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">[place of publication not identified]</subfield>
+			<subfield code="b">[publisher not identified]</subfield>
+			<subfield code="c">[1522]</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">A4 ; [4] f.</subfield>
+			<subfield code="g">4°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="500" ind1=" " ind2=" ">
+			<subfield code="a">Date derived from text (f.A4v)</subfield>
+		</datafield>
+		<datafield tag="542" ind1=" " ind2=" ">
+			<subfield code="l">public domain</subfield>
+			<subfield code="n">available as open data</subfield>
+			<subfield code="u">gebruiksvoorwaarden</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Theologie, kerk en religie (kennisdomein)</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Universiteitsgeschiedenis (kennisdomein)</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">UDC</subfield>
+			<subfield code="a">2</subfield>
+			<subfield code="x">Godsdienst. Theologie</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Adrianus</subfield>
+			<subfield code="b">VI</subfield>
+			<subfield code="c">pope</subfield>
+			<subfield code="d">1459-1523</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="773" ind1="1" ind2=" ">
+			<subfield code="i">Bound with</subfield>
+			<subfield code="w">(BeLVLBS)001178760LBS01-Aleph</subfield>
+			<subfield code="g">no:003473883</subfield>
+			<subfield code="9">unrelated</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">http://edit16.iccu.sbn.it/scripts/iccu_ext.dll?fn=10&amp;i=43435</subfield>
+			<subfield code="y">This edition in EDIT16</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="1">
+			<subfield code="u">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10201779-9</subfield>
+			<subfield code="y">Digitized version</subfield>
+			<subfield code="z">Bayerische Staatsbibliothek</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE13351841/representation</subfield>
+			<subfield code="y">KU Leuven Libraries BCOL BRES CaaA1304</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">NO DEDUP</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">coat of arms</subfield>
+			<subfield code="c">of Adrianus VI on title page</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental border(s)</subfield>
+			<subfield code="c">on title page</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1501-1540</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE13351841</subfield>
+			<subfield code="e">CaaA1304</subfield>
+			<subfield code="y">1522</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">CaaA1304</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BIBC</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201803</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BCOL</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201910</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+	<record>
+		<leader>02365nam a2200469u  4500</leader>
+		<controlfield tag="001">9911848370101488</controlfield>
+		<controlfield tag="005">20220901145217.0</controlfield>
+		<controlfield tag="008">901114s1538    gw |||| r|    000|0 lat c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">3501905</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)001184837LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)9911848370101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">lat</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Legatio Adriani papae VI. ad conventvm Nvrembergensem, anno M.D.XXII missa.</subfield>
+			<subfield code="c">Responsio, nomine Cæsareæ maiestatis principum &amp; procerum reddita. Grauamina centum, a pontificibus introducta, pontifici significata, principibus &amp; imperij ordinibus vlterius non toleranda. Quid sint Annatæ, &amp; q; incredibilis summa pecuniarum ex orbe christiano, Romam mittatur &amp; profundatur.</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">Legatio Adriani papae VI. ad conventum Nurembergensem, anno M.D.XXII missa</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">Vittembergae</subfield>
+			<subfield code="b">[Hans Frischmut]</subfield>
+			<subfield code="c">1538</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="3">
+			<subfield code="a">Impressvm Vittembergæ</subfield>
+			<subfield code="b">per Ioannem Frischemut</subfield>
+			<subfield code="c">[1538]</subfield>
+			<subfield code="3">colophon</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">A-T4, V4 (-V4) ; [79] f.</subfield>
+			<subfield code="g">4°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="500" ind1=" " ind2=" ">
+			<subfield code="a">Account of the Diet of Nuremberg, Nov. 1522-March 1523, with the 100 grievances of the German nation against the Vatican. With foreword and postscript by Martin Luther</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Theologie, kerk en religie (kennisdomein)</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Universiteitsgeschiedenis (kennisdomein)</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">UDC</subfield>
+			<subfield code="a">2</subfield>
+			<subfield code="x">Godsdienst. Theologie</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Adrianus</subfield>
+			<subfield code="b">VI</subfield>
+			<subfield code="c">pope</subfield>
+			<subfield code="d">1459-1523</subfield>
+			<subfield code="e">other</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Luther, Martin</subfield>
+			<subfield code="d">1483-1546</subfield>
+			<subfield code="3">aft</subfield>
+			<subfield code="e">author of introduction, etc.</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">Frischmut, Hans</subfield>
+			<subfield code="c">Wittenberg</subfield>
+			<subfield code="d">active 1538-1540</subfield>
+			<subfield code="e">printer</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">https://www.ustc.ac.uk/editions/671928</subfield>
+			<subfield code="y">This edition in USTC</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">http://gateway-bayern.de/VD16+K+323</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="1">
+			<subfield code="u">http://data.onb.ac.at/ABO/%2BZ222301904</subfield>
+			<subfield code="y">Digitized version</subfield>
+			<subfield code="z">Österreichische Nationalbibliothek</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE13351919/representation</subfield>
+			<subfield code="y">KU Leuven Libraries BCOL BRES CaaA686</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">NO DEDUP</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental border(s)</subfield>
+			<subfield code="c">on title page</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1501-1540</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE13351919</subfield>
+			<subfield code="e">CaaA686</subfield>
+			<subfield code="y">1538</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">CaaA686</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google_Books_selection_2019</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BCOL</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201901</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BCOL</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201910</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+	<record>
+		<leader>02229nam a2200445u  4500</leader>
+		<controlfield tag="001">9911860710101488</controlfield>
+		<controlfield tag="005">20220901164131.0</controlfield>
+		<controlfield tag="008">901119s1642    be |||| r|    000|0 lat c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">3506703</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)001186071LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)9911860710101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">lat</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Ant. PerezI ... Praelectiones in Codicem Ivstinianevm : quibus leges, &amp; authenticæ omnes attinguntur, atque explicantur, mores hodierni inseruntur, &amp; quicquid est iuris antiqui, noui, nouissimi enodatur, ac breuiter exponitur.</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">Ant. Perezii ... Praelectiones in Codicem Justinianeum : quibus leges, et authenticae omnes attinguntur, atque explicantur, mores hodierni inseruntur, &amp; quicquid est iuris antiqui, novi, novissimi enodatur, ac breviter exponitur</subfield>
+		</datafield>
+		<datafield tag="250" ind1=" " ind2=" ">
+			<subfield code="a">Editio posterior dimidiâ parte auctior</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">Lovanii</subfield>
+			<subfield code="b">typis &amp; sumptibus Euerardi de Witte</subfield>
+			<subfield code="c">1642</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">)(4, 2)(2, A-5I4 (5I4 blank) ; [1], [1 blank], [10], 812 [= 806], [2 blank] p.</subfield>
+			<subfield code="g">2°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="500" ind1=" " ind2=" ">
+			<subfield code="a">Errors in page numbering: f. 5B1v. is wrongly numbered 748 instead of 746 and f. 5H1r. is wrongly numbered 799 instead of 795.</subfield>
+		</datafield>
+		<datafield tag="542" ind1=" " ind2=" ">
+			<subfield code="l">public domain</subfield>
+			<subfield code="n">available as open data</subfield>
+			<subfield code="u">gebruiksvoorwaarden</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="699" ind1=" " ind2=" ">
+			<subfield code="a">Herkomstcollectie Kruisheren</subfield>
+			<subfield code="g">CometaMSB</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Perez, Antonio</subfield>
+			<subfield code="d">1583-1672</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="700" ind1="0" ind2=" ">
+			<subfield code="a">Justinianus</subfield>
+			<subfield code="b">I</subfield>
+			<subfield code="c">Byzantine imperator</subfield>
+			<subfield code="d">483-565</subfield>
+			<subfield code="e">other</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">De Witte, Everaerdt</subfield>
+			<subfield code="c">Leuven</subfield>
+			<subfield code="d">active 1638-1651</subfield>
+			<subfield code="e">printer</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">https://anet.be/record/stcvopac/c:stcv:6935999</subfield>
+			<subfield code="y">This edition in STCV</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">https://www.ustc.ac.uk/editions/1005433</subfield>
+			<subfield code="y">This edition in USTC</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE13604321/representation</subfield>
+			<subfield code="y">KU Leuven Libraries BCOL BRES CaaB71</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">titlepage red/black</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">printer's device</subfield>
+			<subfield code="c">on title page ; engraved</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">tail piece(s)</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1601-1650</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE13604321</subfield>
+			<subfield code="e">CaaB71</subfield>
+			<subfield code="y">1642</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">CaaB71</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google_Books_selection_2019</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">GBIB</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201910</subfield>
+			<subfield code="d">Kruisheren Maaseik</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">BCOL</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">201912</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+	<record>
+		<leader>02925nam a2200517u  4500</leader>
+		<controlfield tag="001">9911900830101488</controlfield>
+		<controlfield tag="005">20220901163231.0</controlfield>
+		<controlfield tag="008">901204s1622    fr |||| r|    000|0 mul c</controlfield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">3523515</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)001190083LBS01-Aleph</subfield>
+		</datafield>
+		<datafield tag="035" ind1=" " ind2=" ">
+			<subfield code="a">(BeLVLBS)9911900830101471</subfield>
+		</datafield>
+		<datafield tag="040" ind1=" " ind2=" ">
+			<subfield code="a">BeLVLBS</subfield>
+			<subfield code="b">Language of cataloging varies</subfield>
+			<subfield code="e">rda based</subfield>
+		</datafield>
+		<datafield tag="041" ind1=" " ind2=" ">
+			<subfield code="a">fre</subfield>
+			<subfield code="a">lat</subfield>
+		</datafield>
+		<datafield tag="245" ind1="0" ind2="0">
+			<subfield code="a">Discovrs des choses memorables, qvi se sont passees av trespas, &amp; aux funerailles du feu Cardinal Bellarmin, de tres-illustre &amp; glorieuse memoire. Auec la copie de son testament inserée au dedans.</subfield>
+			<subfield code="c">Le tout fidelement recueilly de deux diuers Narrez enuoyez de Rome sur ce sujet.</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">Discours des choses memorables, qui se sont passees au trespas, &amp; aux funerailles du feu Cardinal Bellarmin, de tres-illustre &amp; glorieuse memoire. Auec la copie de son testament inserée au dedans</subfield>
+		</datafield>
+		<datafield tag="246" ind1="3" ind2="3">
+			<subfield code="a">In funere Roberti Cardinalis Bellarmini oratio Tarquinii Gallutii ...  habita Romae ... Id. Octob. Ann. MDCXXI ...  Card. Farnesio dicata.</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="1">
+			<subfield code="a">A Arras</subfield>
+			<subfield code="b">de l'imprimerie de Guillaume de la Riuière</subfield>
+			<subfield code="c">1622</subfield>
+		</datafield>
+		<datafield tag="264" ind1=" " ind2="3">
+			<subfield code="a">A Trebati</subfield>
+			<subfield code="b">ex officinâ Gvilielmi Riverii</subfield>
+			<subfield code="c">1622</subfield>
+			<subfield code="3">title page 'In fvnere Roberti ... Bellarmini...'</subfield>
+		</datafield>
+		<datafield tag="300" ind1=" " ind2=" ">
+			<subfield code="a">A-B8, C-D4, E-G8 ; 95, [1] p.</subfield>
+			<subfield code="g">8°</subfield>
+		</datafield>
+		<datafield tag="336" ind1=" " ind2=" ">
+			<subfield code="a">text</subfield>
+			<subfield code="2">rdacontent</subfield>
+		</datafield>
+		<datafield tag="337" ind1=" " ind2=" ">
+			<subfield code="a">unmediated</subfield>
+			<subfield code="2">rdamedia</subfield>
+		</datafield>
+		<datafield tag="338" ind1=" " ind2=" ">
+			<subfield code="a">volume</subfield>
+			<subfield code="2">rdacarrier</subfield>
+		</datafield>
+		<datafield tag="500" ind1=" " ind2=" ">
+			<subfield code="a">With separate title page for 'In fvnere Roberti Cardinalis Bellarmini oratio Tarqvinii Gallvtii ... Card. Farnesio dicata'</subfield>
+		</datafield>
+		<datafield tag="510" ind1="4" ind2=" ">
+			<subfield code="a">BSJ</subfield>
+			<subfield code="c">III, 1143, 8</subfield>
+		</datafield>
+		<datafield tag="505" ind1="2" ind2="0">
+			<subfield code="a">f. D1r-D4r :</subfield>
+			<subfield code="t">Testamentum ... Bellarmini ...</subfield>
+		</datafield>
+		<datafield tag="505" ind1="2" ind2="0">
+			<subfield code="a">f. E1r-G8v :</subfield>
+			<subfield code="t">In fvnere Roberti Cardinalis Bellarmini oratio Tarqvinii Gallvtii ...  habita Romæ ... Id. Octob. Ann. MDCXXI ...  Card. Farnesio dicata.</subfield>
+		</datafield>
+		<datafield tag="542" ind1=" " ind2=" ">
+			<subfield code="l">public domain</subfield>
+			<subfield code="n">available as open data</subfield>
+			<subfield code="u">gebruiksvoorwaarden</subfield>
+		</datafield>
+		<datafield tag="546" ind1=" " ind2=" ">
+			<subfield code="a">'Discovrs des choses memorables...' in French ;'Testamentum ... Bellarmini ...' and 'In fvnere Roberti ... Bellarmini...' in Latin</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">#GBIB: jesuitica</subfield>
+		</datafield>
+		<datafield tag="650" ind1=" " ind2="7">
+			<subfield code="2">KUL</subfield>
+			<subfield code="a">Academic collection</subfield>
+		</datafield>
+		<datafield tag="699" ind1=" " ind2=" ">
+			<subfield code="a">Herkomstcollectie Mechelen: Bibliotheek Grootseminarie</subfield>
+			<subfield code="g">CometaMSB</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Bellarmino, Roberto</subfield>
+			<subfield code="c">S.J., card.</subfield>
+			<subfield code="d">1542-1621</subfield>
+			<subfield code="e">other</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Galluzzi, Tarquinio</subfield>
+			<subfield code="c">S.J.</subfield>
+			<subfield code="d">1574-1649</subfield>
+			<subfield code="e">author</subfield>
+		</datafield>
+		<datafield tag="700" ind1="1" ind2=" ">
+			<subfield code="a">Farnese, Odoardo</subfield>
+			<subfield code="c">card.</subfield>
+			<subfield code="d">1573-1626</subfield>
+			<subfield code="e">other</subfield>
+		</datafield>
+		<datafield tag="710" ind1="2" ind2=" ">
+			<subfield code="a">de la Rivière, Guillaume I</subfield>
+			<subfield code="c">Arras</subfield>
+			<subfield code="d">active 1591-1623</subfield>
+			<subfield code="e">printer</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="2">
+			<subfield code="u">https://www.ustc.ac.uk/editions/1119672</subfield>
+			<subfield code="y">This edition in USTC</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2="1">
+			<subfield code="u">https://lib.ugent.be/catalog/rug01:001716619</subfield>
+			<subfield code="y">Digitized version</subfield>
+			<subfield code="z">Universiteitsbibliotheek Gent</subfield>
+		</datafield>
+		<datafield tag="856" ind1="4" ind2=" ">
+			<subfield code="u">http://resolver.libis.be/IE13180794/representation</subfield>
+			<subfield code="y">KU Leuven Libraries GBIB GBIB P279.312.4 DISC</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">CONSOLIDATED RECORD EARLY PRINT FULL</subfield>
+		</datafield>
+		<datafield tag="900" ind1=" " ind2=" ">
+			<subfield code="a">NO DEDUP</subfield>
+		</datafield>
+		<datafield tag="902" ind1=" " ind2=" ">
+			<subfield code="r">BOOK BEFORE 1840</subfield>
+			<subfield code="m">PHYSICAL</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">printer's device</subfield>
+			<subfield code="c">on title pages</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">head piece(s)</subfield>
+		</datafield>
+		<datafield tag="950" ind1=" " ind2=" ">
+			<subfield code="b">ornamental initials</subfield>
+		</datafield>
+		<datafield tag="953" ind1=" " ind2=" ">
+			<subfield code="a">1601-1650</subfield>
+		</datafield>
+		<datafield tag="955" ind1=" " ind2=" ">
+			<subfield code="b">IE13180794</subfield>
+			<subfield code="e">P279.312.4 DISC</subfield>
+			<subfield code="y">1622</subfield>
+			<subfield code="v">1</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">DIGI CAA DIGITALISEREN</subfield>
+			<subfield code="c">P279.312.4 DISC</subfield>
+		</datafield>
+		<datafield tag="981" ind1=" " ind2=" ">
+			<subfield code="a">Google metadata import 20210927</subfield>
+		</datafield>
+		<datafield tag="996" ind1=" " ind2=" ">
+			<subfield code="a">GBIB</subfield>
+			<subfield code="b">physical</subfield>
+			<subfield code="c">202001</subfield>
+			<subfield code="9">local</subfield>
+		</datafield>
+	</record>
+</collection>
