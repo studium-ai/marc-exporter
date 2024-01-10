@@ -1,0 +1,31 @@
+Order of operations for upload:
+
+Manuale Lovaniense (ODIS)
+Magister Dixit (MARC)
+Lovaniensia (Omeka CSV)
+
+## Manuale Lovaniense
+
+Get next filemaker IDs for Sources and Places table, enter in script. 
+
+Get list of all place strings used, export to Googlesheets. Manually enter place IDs from filemaker. 
+
+For those missing places, enter Wikidata ID.
+
+Import this file back and run script to get details from Wikidata for those missing. 
+
+Upload these to Places table, assign FM place IDs based on next one
+
+Create PlacesLinks table for these too
+
+Merge found and missing into a full place concordance
+
+Get tables with basic info (date, language etc.) from MARC. Join with places concordance.
+
+Create Sources table from all info
+
+Create new sourceLinks with USTC etc. values. Merge with ODIS links (found in Source table)
+
+Upload Sources table
+
+Upload SourceLinks table

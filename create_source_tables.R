@@ -4,11 +4,13 @@ xml_file_path = "/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_
 caa_xml_file_path = '/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/5 Collectio Academica Antiqua (through ALMA in stead of the fraction of Digitized items on Lovaniensia)/20230728_Alma_Caa_all.xml'
 md_xml_file_path = "/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/4 Magister Dixit (through ALMA of the KU Leuven libraries' Special Collections)/20230728_Alma_Lecturenotes_digital.xml"
 lec_xml_file_path = "/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/5 Collectio Academica Antiqua (through ALMA in stead of the fraction of Digitized items on Lovaniensia)/20230728_Alma_Lecturenotes_all.xml"
+lov_xml_file_path = "/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/5 Collectio Academica Antiqua (through ALMA in stead of the fraction of Digitized items on Lovaniensia)/Lovaniensia_DIGCOL.xml"
+
 
 sources_table = readxl::read_excel('/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/Sources - Yann/draft_sources_tables/sources_table_export.xlsx')
 sources_table = sources_table %>% filter(!is.na(Source_ID_pk))
 
-
+theses_100 = extract_marc21_data('100',xml_file_path)
 theses_245 = extract_marc21_data('245',xml_file_path)
 theses_246 = extract_marc21_data('246',xml_file_path)
 theses_264 = extract_marc21_data('264', xml_file_path)
@@ -18,6 +20,7 @@ theses_655 = extract_marc21_data('655', xml_file_path)
 theses_700 = extract_marc21_data('700',xml_file_path)
 theses_856 = extract_marc21_data('856',xml_file_path)
 theses_546 = extract_marc21_data('546', xml_file_path)
+theses_952 = extract_marc21_data('952', xml_file_path)
 
 caa_100 = extract_marc21_data('100',caa_xml_file_path)
 caa_245 = extract_marc21_data('245',caa_xml_file_path)
@@ -29,6 +32,7 @@ caa_655 = extract_marc21_data('655', caa_xml_file_path)
 caa_700 = extract_marc21_data('700',caa_xml_file_path)
 caa_856 = extract_marc21_data('856',caa_xml_file_path)
 caa_546 = extract_marc21_data('546', caa_xml_file_path)
+caa_952 = extract_marc21_data('952', caa_xml_file_path)
 
 md_100 = extract_marc21_data('100',md_xml_file_path)
 md_245 = extract_marc21_data('245',md_xml_file_path)
@@ -36,10 +40,12 @@ md_246 = extract_marc21_data('246',md_xml_file_path)
 md_264 = extract_marc21_data('264', md_xml_file_path)
 md_300 = extract_marc21_data('300', md_xml_file_path)
 md_340 = extract_marc21_data('340', md_xml_file_path)
+md_505 = extract_marc21_data('505', md_xml_file_path)
 md_655 = extract_marc21_data('655', md_xml_file_path)
 md_700 = extract_marc21_data('700',md_xml_file_path)
 md_856 = extract_marc21_data('856',md_xml_file_path)
 md_546 = extract_marc21_data('546', md_xml_file_path)
+md_952 = extract_marc21_data('952', md_xml_file_path)
 
 
 lec_100 = extract_marc21_data('100',lec_xml_file_path)
@@ -52,6 +58,19 @@ lec_655 = extract_marc21_data('655', lec_xml_file_path)
 lec_700 = extract_marc21_data('700',lec_xml_file_path)
 lec_856 = extract_marc21_data('856',lec_xml_file_path)
 lec_546 = extract_marc21_data('546', lec_xml_file_path)
+
+lov_001 = extract_marc21_data('001',lov_xml_file_path)
+lov_245 = extract_marc21_data('245',lov_xml_file_path)
+lov_246 = extract_marc21_data('246',lov_xml_file_path)
+lov_264 = extract_marc21_data('264', lov_xml_file_path)
+lov_300 = extract_marc21_data('300', lov_xml_file_path)
+lov_340 = extract_marc21_data('340', lov_xml_file_path)
+lov_655 = extract_marc21_data('655', lov_xml_file_path)
+lov_700 = extract_marc21_data('700',lov_xml_file_path)
+lov_856 = extract_marc21_data('856',lov_xml_file_path)
+lov_546 = extract_marc21_data('546', lov_xml_file_path)
+lov_952 = extract_marc21_data('952', lov_xml_file_path)
+
 
 alt_title = lec_246 %>% group_by(RecordID) %>% 
   summarise(Title = paste0(`246_a`, collapse = "/"))
@@ -85,7 +104,8 @@ lecture_notes_sources = df_list %>% data.table::rbindlist(use.names = TRUE, fill
 
 lecture_notes_sources$Source_ID_pk[14:615] = 1571:(1571 + (615-14))
 
-lecture_notes_sources  %>% write_csv('/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/Sources - Yann/draft_sources_tables/caa_lecture_notes_sources.csv')
+lecture_notes_sources  %>% 
+  write_csv('/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/Sources - Yann/draft_sources_tables/caa_lecture_notes_sources.csv')
 
 alt_title = md_246 %>% group_by(RecordID) %>% 
   summarise(Title = paste0(`246_a`, collapse = "/"))
@@ -103,20 +123,23 @@ df = md_245 %>%
   mutate(publ_date_uncertain = ifelse(str_detect(date1, "\\?"), 'yes', 'no')) %>% 
   left_join(md_300 %>% filter(!is.na(`300_c`))) %>% 
   select(RecordID, Title, `sourcesPublication_to_places::name`, d1, m1, y1, d2, m2, y2, publ_date_uncertain, page_numbers = `300_a`, dim = `300_c`) %>% 
-  mutate(h_w = str_extract_all(dim, "[0-9]{3}")) %>%
-  mutate(height = h_w[[1]][1], width = h_w[[1]][2]) %>% 
+  mutate(h_w = str_extract_all(dim, "[0-9]{3}"))  %>%
+  mutate(height = sapply(h_w, function(x) ifelse(length(x) >= 1, x[1], NA)),
+         width = sapply(h_w, function(x) ifelse(length(x) >= 2, x[2], NA))) %>% 
   left_join(md_340 %>% filter(!is.na(`340_e`))) %>% 
   rename(material = `340_e`) %>% select(-`340_a`, -dim, -h_w) %>% mutate(page_numbers = str_extract(page_numbers, "[0-9]{1,}")) %>% 
   left_join(md_655) %>% rename(type = `655_v`) %>% 
   mutate(y2 = coalesce(y2, y1)) %>% 
   left_join(md_546) %>% 
   rename(language = `546_a`)  %>% 
-  mutate(date_concat = ifelse(y1 != y2, paste0(y1, " - ", y2), y1))
+  mutate(date_concat = ifelse(y1 != y2, paste0(y1, " - ", y2), y1)) %>% 
+  mutate(format = paste0(height, "h x ", width, "w" )) %>% left_join(md_952 %>% select(RecordID, place = `952_d`, institution = ``))
 
 
 df_list = list(sources_table, df)
 
-md_notes_sources = df_list %>% data.table::rbindlist(use.names = TRUE, fill = TRUE) 
+md_notes_sources = df_list %>% 
+  data.table::rbindlist(use.names = TRUE, fill = TRUE) 
 
 md_notes_sources$Source_ID_pk[5:nrow(md_notes_sources)] = 1560:(1560 + (nrow(md_notes_sources)-5))
 
