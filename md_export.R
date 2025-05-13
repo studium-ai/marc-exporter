@@ -127,8 +127,6 @@ source_links %>%
 
 ## Call numbers 
 
-
-
 md_544 %>% 
   select(RecordID, `544_b`) %>% 
   full_join(md_852 %>% select(RecordID,`852_h`)) %>% 
