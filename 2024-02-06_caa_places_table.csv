@@ -1,0 +1,66 @@
+place_fm_id,long,lat,placeLabel,countryLabel,wikidata,intNotes,import
+9094,7.752222222,48.573333333,Strasbourg,France,Q6602,Country: France,Imported from 20230321_Caa_all.xml
+9095,11.010555555,52.228055555,Helmstedt,Germany,Q486562,Country: Germany,Imported from 20230321_Caa_all.xml
+9096,1.261666666,45.834444444,Limoges,France,Q45656,Country: France,Imported from 20230321_Caa_all.xml
+9097,7.676111111,45.079166666,Turin,Italy,Q495,Country: Italy,Imported from 20230321_Caa_all.xml
+9098,0.1225,52.208055555,Cambridge,United Kingdom,Q350,Country: United Kingdom,Imported from 20230321_Caa_all.xml
+9099,9.055555555,48.52,Tübingen,Germany,Q3806,Country: Germany,Imported from 20230321_Caa_all.xml
+9100,-0.579444444,44.837777777,Bordeaux,France,Q1479,Country: France,Imported from 20230321_Caa_all.xml
+9101,5.445555555,43.527777777,Aix-en-Provence,France,Q47465,Country: France,Imported from 20230321_Caa_all.xml
+9102,11.734166666,45.766666666,Bassano del Grappa,Italy,Q47094,Country: Italy,Imported from 20230321_Caa_all.xml
+9103,9.67,45.695,Bergamo,Italy,Q628,Country: Italy,Imported from 20230321_Caa_all.xml
+9104,11.342777777,44.493888888,Bologna,Italy,Q1891,Country: Italy,Imported from 20230321_Caa_all.xml
+9105,-8.428888888,40.211111111,Coimbra,Portugal,Q45412,Country: Portugal,Imported from 20230321_Caa_all.xml
+9106,8.65,49.866666666,Darmstadt,Germany,Q2973,Country: Germany,Imported from 20230321_Caa_all.xml
+9107,-0.076111111,47.699722222,La Flèche,France,Q343,Country: France,Imported from 20230321_Caa_all.xml
+9108,14.551666666,52.342083333,Frankfurt (Oder),Germany,Q4024,Country: Germany,Imported from 20230321_Caa_all.xml
+9109,7.15,46.8,Fribourg,Switzerland,Q36378,Country: Switzerland,Imported from 20230321_Caa_all.xml
+9110,-0.154444444,47.995833333,Loué,France,Q35719815,Country: France,Imported from 20230321_Caa_all.xml
+9111,9.935555555,51.533888888,Göttingen,Germany,Q3033,Country: Germany,Imported from 20230321_Caa_all.xml
+9112,11.531694444,48.048305555,Grünwald,Germany,Q220090,Country: Germany,Imported from 20230321_Caa_all.xml
+9113,9.706666666,50.868333333,Bad Hersfeld,Germany,Q16145,Country: Germany,Imported from 20230321_Caa_all.xml
+9114,8.360277777,49.855555555,Oppenheim,Germany,Q518690,Country: Germany,Imported from 20230321_Caa_all.xml
+9115,12.150833333,48.539722222,Landshut,Germany,Q3974,Country: Germany,Imported from 20230321_Caa_all.xml
+9116,-1.7344,53.8912,Menston,United Kingdom,Q602055,Country: United Kingdom,Imported from 20230321_Caa_all.xml
+9117,-74.444444444,40.486666666,New Brunswick,United States of America,Q138338,Country: United States of America,Imported from 20230321_Caa_all.xml
+9118,4.77639,52.15083,Nieuwkoop,Netherlands,Q33467336,Country: Netherlands,Imported from 20230321_Caa_all.xml
+9119,8.766666666,50.1,Offenbach am Main,Germany,Q3042,Country: Germany,Imported from 20230321_Caa_all.xml
+9120,-5.664166666,40.965,Salamanca,Spain,Q15695,Country: Spain,Imported from 20230321_Caa_all.xml
+9121,5.316666666,51.7,'s-Hertogenbosch,Netherlands,Q2766547,Country: Netherlands,Imported from 20230321_Caa_all.xml
+9122,3.388055555,50.605555555,Tournai,Belgium,Q173219,Country: Belgium,Imported from 20230321_Caa_all.xml
+9123,4.832777777,45.067222222,Tournon-sur-Rhône,France,Q213155,Country: France,Imported from 20230321_Caa_all.xml
+9124,28.6,49.891944444,Berdychiv,Ukraine,Q158799,Country: Ukraine,Imported from 20230321_Caa_all.xml
+9125,17.586211111,48.37775,Trnava,Slovakia,Q26175,Country: Slovakia,Imported from 20230321_Caa_all.xml
+9126,0,0,Hanoviæ,0,Hanoviæ,0,Imported from 20230321_Caa_all.xml
+9127,0,0,S.l.,0,S.l.,0,Imported from 20230321_Caa_all.xml
+9128,0,0,Montibvs,0,Montibvs,0,Imported from 20230321_Caa_all.xml
+9129,0,0,A Vienne,0,A Vienne,0,Imported from 20230321_Caa_all.xml
+9130,0,0,Apvd inclytam Coloniam,0,Apvd inclytam Coloniam,0,Imported from 20230321_Caa_all.xml
+9131,0,0,Arenaci,0,Arenaci,0,Imported from 20230321_Caa_all.xml
+9132,0,0,Insvlis,0,Insvlis,0,Imported from 20230321_Caa_all.xml
+9133,0,0,Lovanii & prostant Gandæ,0,Lovanii & prostant Gandæ,0,Imported from 20230321_Caa_all.xml
+9134,0,0,Neap.,0,Neap.,0,Imported from 20230321_Caa_all.xml
+9135,0,0,Ridgewood,0,Ridgewood,0,Imported from 20230321_Caa_all.xml
+9136,0,0,A Tournay,0,A Tournay,0,Imported from 20230321_Caa_all.xml
+9137,0,0,A Tovl,0,A Tovl,0,Imported from 20230321_Caa_all.xml
+9138,0,0,Avgvstæ Francorvm,0,Avgvstæ Francorvm,0,Imported from 20230321_Caa_all.xml
+9139,0,0,Colonieñ,0,Colonieñ,0,Imported from 20230321_Caa_all.xml
+9140,0,0,Coloniæ [=Leiden],0,Coloniæ [=Leiden],0,Imported from 20230321_Caa_all.xml
+9141,0,0,Excusæ Bracaræ,0,Excusæ Bracaræ,0,Imported from 20230321_Caa_all.xml
+9142,0,0,Hal,0,Hal,0,Imported from 20230321_Caa_all.xml
+9143,0,0,Impressi in vrbe Argentina,0,Impressi in vrbe Argentina,0,Imported from 20230321_Caa_all.xml
+9144,0,0,Impressum Forosempronii,0,Impressum Forosempronii,0,Imported from 20230321_Caa_all.xml
+9145,0,0,Impressvm Vitebergae,0,Impressvm Vitebergae,0,Imported from 20230321_Caa_all.xml
+9146,0,0,Impressæ Lipsiæ,0,Impressæ Lipsiæ,0,Imported from 20230321_Caa_all.xml
+9147,0,0,In alma Taurinensi ciuitate,0,In alma Taurinensi ciuitate,0,Imported from 20230321_Caa_all.xml
+9148,0,0,Leoardiae,0,Leoardiae,0,Imported from 20230321_Caa_all.xml
+9149,0,0,Patavii,0,Patavii,0,Imported from 20230321_Caa_all.xml
+9150,0,0,Pompelone,0,Pompelone,0,Imported from 20230321_Caa_all.xml
+9151,0,0,Printed at Lovain,0,Printed at Lovain,0,Imported from 20230321_Caa_all.xml
+9152,0,0,Prostat Frãcof.,0,Prostat Frãcof.,0,Imported from 20230321_Caa_all.xml
+9153,0,0,Tot naemloos,0,Tot naemloos,0,Imported from 20230321_Caa_all.xml
+9154,0,0,VVirceburgi,0,VVirceburgi,0,Imported from 20230321_Caa_all.xml
+9155,0,0,Vienne,0,Vienne,0,Imported from 20230321_Caa_all.xml
+9156,0,0,Wildert,0,Wildert,0,Imported from 20230321_Caa_all.xml
+9157,0,0,Wovrdæ,0,Wovrdæ,0,Imported from 20230321_Caa_all.xml
+9158,0,0,apud Ioannem Kinckivm,0,apud Ioannem Kinckivm,0,Imported from 20230321_Caa_all.xml

@@ -1,0 +1,9 @@
+from,to,number
+all,correct.xlsx,2211
+all,missing,846
+all,more_than_one_ps,67
+all,no_245$c_field,44
+missing,place_extracted_no_match_found.xlsx,314
+missing,no_place_extracted,532
+no_place_extracted,place_found_round2.xlsx,370
+no_place_extracted,no_place_found_round2.xlsx,162

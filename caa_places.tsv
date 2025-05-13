@@ -1,0 +1,675 @@
+264_a	n	modern_name	fm_place_id	geonames_id	wikidata_id	notes
+Lovanii	940	Leuven	2			
+Antverpiæ	302	Antwerp	26			
+[place of publication not identified]	214					
+Parisiis	154	Paris	495			
+[lieu de publication inconnu]	137					
+Lvgdvni	90	Leiden	5004			
+Antverpiae	80		26			
+Coloniæ	74	Köln	737			Surprised it's not in the DB already, should check
+Venetiis	61	Venice	8273			Add coordinates to FM
+Leodii	56	Liege	392			
+[plaats van uitgave onbekend]	55					
+Bruxellis	54	Brussels	116			
+Coloniae Agrippinae	52	Köln	737	2886242	Q365	Surprised it's not in the DB already, should check
+Coloniæ Agrippinæ	48	Köln	737	2886242	Q365	Surprised it's not in the DB already, should check
+Basileae	45	Basel	1297			
+A Louvain	44	Leuven	2			
+Tot Loven	44	Leuven	2			
+[Leuven]	44	Leuven	2			
+Lvgdvni Batavorvm	43	Leiden	5004			
+Louanij	30	Leuven	2			
+Amstelodami	29	Amsterdam	17			
+Coloniae	29	Köln	737	2886242	Q365	Surprised it's not in the DB already, should check
+[Paris]	29	Paris	495			
+Basileæ	28	Basel	1297			
+Lugduni	28	Leiden	5004			
+A Bruxelles	27	Brussels	116			
+A Paris	26	Paris	495			
+[Antwerpen]	22	Antwerp	26			
+Bruxelles	21	Brussels	116			
+Francofvrti	21	Frankfurt am Main	3255			I'm guessing it's am Main as much more likely to be place of publication of books, but it is only a guess. Check
+Prostant Lovanii	21	Leuven	2			
+Romæ	20	Rome	740			
+Antuerpiæ	19	Antwerp	26			
+Argentorati	19	Strasbourg		2826178	Q6602	Check?
+	19					
+Dvaci	18	Douai	2729			
+Lugduni Batavorum	17	Leiden	5004			
+Gandavi	16	Gent	225			
+Lovanij	15	Leuven	2			
+t'Antwerpen	15	Antwerp	26			
+Mechliniæ	14	Mechelen	409			
+Louvain	13	Leuven	2			
+Lvtetiae	13	Paris	495			Need to check this one
+Louanii	12	Leuven	2			
+Francofurti	11	Frankfurt am Main	3255			I'm guessing it's am Main as much more likely to be place of publication of books, but it is only a guess. Check
+Hanoviæ	11					Could be Hannover OR Hanau. Check
+Paris	11	Paris	495			
+Lvtetiæ	10	Paris	495			Need to check this one
+Tot Brussel	10	Brussels	116			
+A Anvers	9	Antwerp	26			
+Amsterodami	9	Amsterdam	17			
+Lipsiae	9	Leipzig		2879139	Q2079	
+Londini	9	London	5264			Should add coordinates and geonames etc.
+[Lyon]	9	Lyon	5364			
+[place of manufacture not identified]	9					
+Brvxellæ	8	Brussels	116			
+Mediolani	8	Milan	5775			
+Venetijs	8	Venice	8273			
+[Bruxelles]	8	Brussels	116			
+t' Amsterdam	8	Amsterdam	17			
+Mogvntiæ	7	Mainz	5409			
+Rothomagi	7	Rouen	7150			
+S.l.	7					
+[Köln]	7	Köln	737	2886242	Q365	Surprised it's not in the DB already, should check
+Antwerpen	6	Antwerp	26			
+Bruxellæ	6	Brussels	116			
+En Valencia	6	Valencia	8175			Should check
+Et Bruxellis	6	Brussels	116			
+Francofvrdi	6	Frankfurt am Main	3255			
+In Venezia	6	Venice	8273			
+[Brussel]	6	Brussels	116			
+[Genève]	6	Geneva	3400			
+A Gand	5	Gent	225			
+A Lille	5	Lille	375			
+Amstelædami	5	Amsterdam	17			
+Arnhemii	5	Arnhem	28			
+Brugis	5	Bruges	114			
+Delphis	5	Delft	154			
+In Roma	5	Rome	740			
+Ingolstadii	5	Ingolstadt	4584			
+Lipsiæ	5	Leipzig		2879139	Q2079	
+LovanI	5	Leuven	2			
+Moguntiæ	5	Mainz	5409			
+Oxonii	5	Oxford	6572			Should add coordinates etc.
+Romae	5	Rome	740			
+Trajecti ad Rhenum	5	Utrecht	635			
+[Augsburg]	5	Augsburg	1137			
+t' Antwerpen	5	Antwerp	26			
+t'Amsterdam	5	Amsterdam	17			
+'t Antwerpen	4	Antwerp	26			
+A Cologne	4	Köln	737	2886242	Q365	Surprised it's not in the DB already, should check
+Antvverpiæ	4	Antwerp	26			
+En Anvers	4	Antwerp	26			
+En Madrid	4	Madrid	5392			
+Francofurti & Lipsiæ	4					Need to decide what to do with multiple
+Helmestadii	4	Helmstedt		2906676	Q486562	
+In Venetia	4	Venice	8273			
+Ipris	4	Ypres		2795101	Q102728	
+Leipzig	4	Leipzig		2879139	Q2079	
+Lvgd. Batav.	4	Leiden	5004			
+Madrid	4	Madrid	5392			
+Marbvrgi Cattorvm	4	Marburg	5470			
+Monaci	4	München	6003			
+Neapoli	4	Naples	6043			
+Rotomagi	4	Rouen	7150			
+Te Ghendt	4	Gent	225			
+Tot Leuven	4	Leuven	2			
+Tot Louen	4	Leuven	2			
+Tot Mechelen	4	Mechelen	409			
+Vænundantur Louanij	4	Leuven	2			
+[Leiden]	4	Leiden	5004			
+[München]	4	München	6003			
+A La Haye	3	Den Haag	115			Variant according to CERL. Need to check.
+A Leide	3	Leiden	5004			
+A Lovvain	3	Leuven	2			
+A Lyon	3	Lyon	5364			
+Aquisgrani	3	Aachen	752			
+Avenione	3	Avignon		3035681	Q6397	
+Brvxellae	3	Brussels	116			
+Franequeræ	3	Franeker	206			
+Gand	3	Gent	225			
+Ghedruckt tot Antwerpen	3	Antwerp	26			
+Ghedruckt tot Louen	3	Leuven	2			
+Gheprint Tantwerpen	3	Antwerp	26			
+Hamburgi	3	Hamburg	3844			
+Impressum Antuerpie	3	Antwerp	26			
+In Vinegia	3	Venice	8273			
+Lemovicis	3			2998286	Q45656	CERL lists two places with this variant, also Aurillac, need to check
+Leodij	3					Can't find
+London	3	London	5264			Should add coordinates and geonames etc.
+Lugdvni	3	Leiden	5004			
+Lutetiæ	3	Paris	495			
+Lutetiæ Parisiorum	3	Paris	495			
+Lvgd. Batavorvm	3	Leiden	5004			
+Marpurgi	3	Marburg	5470			
+Mogvntiae	3	Mainz	5409			
+Monachii	3	München	6003			
+Montibvs	3					"Can't find - Latin for ""mountain' so could be anonymous"
+Noribergæ	3	Nurnberg		6556832	Q2090	
+Oxoniæ	3	Oxford	6572			
+T'Hantvverpen	3	Antwerp	26			
+Tantwerpen	3	Antwerp	26			
+Te Leeuwarden	3	Leeuwarden	4994			Should add coordinates etc.
+Thantwerpen	3	Antwerp	26			
+Tot Brvssel	3	Brussels	116			
+Tot Trier	3	Trier	8080			
+Tot Utrecht	3	Utrecht	635			
+Venezia	3	Venice	8273			
+Vesaliæ	3	Wesel	8795			
+[Basel]	3	Basel	1297			
+[Delft]	3	Delft	154			
+[Halle]	3	Halle	252			
+[Parma]	3	Parma		6540120	Q2683	
+[Strasbourg]	3	Strasbourg		2826178	Q6602	
+à Louvain	3	Leuven	2			
+'s-Hertogenbosch	2	's-Hertogenbosch		2747351	Q2766547	
+A Amsterdam	2	Amsterdam	17			
+A Douay	2	Douai	2729			
+A Geneve	2	Geneva	3400			
+A Liege	2	Liege	392			
+A Lovain	2	Leuven	2			
+A Malines	2	Mechelen	409			
+A Trevoux	2	Trévoux		2971722	Q244565	
+A Vienne	2					Could be lots of places, check
+Antuerpiae	2	Antwerp	26			
+Apvd inclytam Coloniam	2					Check
+Arenaci	2					Arnhem maybe? Check
+Argentinae	2	Strasbourg		2826178	Q6602	
+Aschaffenbvrgi	2	Aschaffenburg	1085			
+Athi	2					Check
+Avgvstae Tavrinorvm	2	Turin		3165525	Q495	
+Barcelona	2	Barcelona	1266			
+Basilieae	2	Basel	1297			
+Bonnæ	2	Bonn	1762			
+Brixiæ	2	Brescia		6542113	Q6221	
+Brunsvigae	2	Brunswick	2008			
+Brussel	2	Brussels	116			
+Brvgis	2	Bruges	114			
+Brvgis Flandrorvm	2	Bruges	114			
+Brvxellis	2	Brussels	116			
+Brvxelliæ	2	Brussels	116			
+Cadomi	2	Caen	2100			
+Cantabrigiæ	2	Cambridge		2653941	Q350	
+Colonie	2	Köln		2886242	Q365	Surprised it's not in the DB already, should check
+Cosmopoli	2					Check
+Dilingæ	2	Dillingen	2659			
+Eerst t'Antwerpen	2	Antwerp	26			
+Et prostant Bruxellis	2	Brussels	116			
+Excudebat Lutetiæ	2	Paris	495			
+Florentiae	2	Florence	3184			
+Genevæ	2	Geneva	3400			
+Gent	2	Gent	225			
+Gheprent Thantwerpen	2	Antwerp	26			
+Hagæ Comitum	2	Den Haag	115			
+Halæ Saxonvm	2	Halle	252			
+Hasseleti	2	Hasselt	260			
+Herbornæ Nassoviorum	2	Herborn		6557785	Q18998	Check, also village in Luxembourg but CERL gives this for Latin name
+Impressum Vitebergæ	2	Wittenberg	8910			
+In Napoli	2	Naples	6043			
+In libera Argentina	2	Strasbourg		2826178	Q6602	
+Ingolstadij	2	Ingolstadt	4584			
+Insvlis	2					
+Leuven	2	Leuven	2			
+Liège	2	Liege	392			
+Lovanii & prostant Gandæ	2					2 places (leuven and Gent?)
+Lugd. Batavorum	2	Leiden	5004			
+Lutetiae	2	Paris	495			
+Luxemburgi	2	Grand Duchy of Luxembourg	395			There are multiple options in the FM database. Check
+Lvgd.	2	Leiden	5004			
+Lvgduni	2	Leiden	5004			
+Lvgdvni-Batavorvm	2	Leiden	5004			
+Lyon	2	Lyon	5364			
+Magontiaci	2	Mainz	5409			
+Neap.	2					Naples?
+New York	2	New York		5128581	Q60	
+Norimbergae	2	Nurnberg		6556832	Q2090	
+Parrisiis	2	Paris	495			Check?
+Prostant Bruxellis	2	Brussels	116			
+Prostant Leodii	2	Liege	392			
+Ridgewood	2	Ridgewood				Ridgewood, N.J. In CERL so possible? Check
+Stampate in Fiorenza	2	Florence	3184			
+T'Antwerpen	2	Antwerp	26			
+T'Hantwerpen	2	Antwerp	26			
+Te Loeuen	2	Leuven	2			
+Te Mechelen	2	Mechelen	409			
+Thantwerpe[n]	2	Antwerp	26			
+Tigvri	2	Zürich	9072			
+Tot Antvverpen	2	Antwerp	26			
+Tot Brvessel	2	Brussels	116			
+Tot Delft	2	Delft	154			
+Tot Dordrecht	2	Dordrecht	2713			
+Tot Gend	2	Gent	225			
+Tubingæ	2	Tübingen			Q3806	
+VVitebergæ	2	Wittenberg	8910			
+VVittenbergae	2	Wittenberg	8910			
+Veronæ	2	Verona			Q2028	Could also be 8311 Véron. Check
+Viennæ Austriæ	2	Vienna	8347			Check, not sure if this is Vienna or Vienne
+Væneunt Antuerpiæ	2	Antwerp	26			
+Vænundantur etiam Antuerpiæ	2	Antwerp	26			
+Wittenbergae	2	Wittenberg	8910			
+[Amsterdam]	2	Amsterdam	17			
+[Barcelona]	2	Barcelona	1266			
+[Frankfurt am Main]	2	Frankfurt am Main	3255			
+[Heidelberg]	2	Heidelberg			Q2966	
+[Lille?]	2	Lille	375			
+et Bruxellis	2	Brussels	116			
+& Antuerpiæ in pingui gallina	1	Antwerp	26			
+& Bruxellis	1	Brussels	116			
+'t Amstelredam	1	Amsterdam	17			
+A  Anvers	1	Antwerp	26			
+A Amsterdam & a Paris	1					2 places
+A Arras	1	Arras	1070			
+A Bonn	1	Bonn	1762			
+A Bordeaux	1	Bordeaux			Q1479	
+A Leyden	1	Leiden	5004			
+A Liége	1	Liege	392			
+A Londres	1	London	5264			
+A Louain	1	Leuven	2			
+A Luxembourg	1	Grand Duchy of Luxembourg	395			There are multiple options in the FM database. Check
+A Mons	1	Bergen	61			
+A Rome	1	Rome	740			
+A Strasbourg	1	Strasbourg		2826178	Q6602	
+A Tournay	1					Not in FM but multiple possible check
+A Tours	1	Tours	8047			
+A Tovl	1					No idea
+A Tovrs	1	Tours	8047			
+A Utrech	1	Utrecht	635			
+A vendre ... à Paris ...	1	Paris	495			
+Amersfoort	1	Amersfoort	916			
+Amstelaedami & Bredae	1					2 places
+Amstelodami ac Lipsiæ	1					2 places
+Amstelredami	1	Amsterdam	17			
+Amsterdam	1	Amsterdam	17			
+Antuerp.	1	Antwerp	26			
+Antuerpiæ imprimebat	1	Antwerp	26			
+Antvaerpiæ	1	Antwerp	26			
+Antverpiae :	1	Antwerp	26			
+Antverpiæ $bb in ædibus Guliel. Siluij	1	Antwerp	26			Check
+Antverpæ	1	Antwerp	26			
+Anvers	1	Antwerp	26			
+Apud inclytam Brabantiæ Antuerpiam	1	Antwerp	26			
+Apud insignem Brabantiæ Antuerpiam	1	Antwerp	26			
+Apvd florentissimam Antverpiam	1	Antwerp	26			
+Apvd inclytam Basileam	1	Basel	1297			
+Aqvis-Sextiis	1	Aix-en-Provence			Q47465	
+Argent.	1	Strasbourg		2826178	Q6602	Probably. Check
+Argentoratum	1	Strasbourg		2826178	Q6602	
+Arnhemii Gelrorvm	1	Arnhem	28			
+At London	1	London	5264			
+Augustæ Taurinorum	1	Turin		3165525	Q495	
+Augustæ Vindel.	1	Augsburg	1137			
+Augustæ Vindelicorum	1	Augsburg	1137			
+Augustæ Vindelicorum et Oeniponti	1					2 places, Augsburg and Innsbruck
+Augvstae Mvnatianae	1	Basel	1297			CERL has 'Coloniae Munatianae', check
+Avgvstae Trevirorvm	1	Trier	8080			
+Avgvstae Vindelicorvm	1	Augsburg	1137			
+Avgvstæ Francorvm	1					Frankfurt maybe?
+Avgvstæ Vindelicorvm	1	Augsburg	1137			
+Avtverpiæ [!]	1	Antwerp	26			
+Basilea	1	Basel	1297			
+Basiliae	1	Basel	1297			
+Bassani	1	Bassano del Grappa			Q47094	From CERL
+Bergomi	1	Bermago			Q628	
+Bononiæ	1	Bologna			Q1891	From CERL
+Bouillon	1	Bouillon	1844			
+Bruxellae	1	Brussels	116			
+Brvnsvigæ	1	Brunswick	2008			
+Brvxelles	1	Brussels	116			
+Brvxellæ Brabantorvm	1	Brussels	116			
+Cambridge	1	Cambridge		2653941	Q350	
+Camerini	1	Camerino			Q73489	
+Catalauni	1	Châlons-en-Champagne			Q47135	
+Coloniae Vbiorvm	1	Köln		2886242	Q365	Surprised it's not in the DB already, should check
+Coloniae, Agrippinae	1	Köln		2886242	Q365	Surprised it's not in the DB already, should check
+Colonieñ	1					
+Coloniæ Allobrogum	1	Geneva	3400			
+Coloniæ [=Leiden]	1					Check
+Coloniæ, & Leodii	1					2 places
+Conimbricæ	1	Coimbra			Q45412	
+Cæsar-Augustæ	1					
+Dantisci	1	Danzig	2551			
+Darmbstadii	1	Darmstadt			Q2973	
+Darmstadii	1	Darmstadt			Q2973	
+Dordraci	1	Dordrecht	2713			
+Duaci	1	Douai	2729			
+Elevtheropoli	1	Basel	1297			From CERL
+Em Lisboa	1	Lisbon			Q597	
+En Anuers	1	Antwerp	26			
+En Avers	1					CERL has a municipality in Switzerland
+En tot Brussel	1	Brussels	116			
+Ende men vintse te coope tot Brugghe	1	Bruges	114			
+Erphordiæ	1	Erfurt	2979			
+Et Lovanii	1	Leuven	2			
+Et a Bruxelles	1	Brussels	116			
+Et veneunt, Parisiis	1	Paris	495			
+Excudebat Antuerpiæ	1	Antwerp	26			
+Excudebat Antverpiæ	1	Antwerp	26			
+Excudebat Louanij	1	Leuven	2			
+Excudebat Lugduni	1	Leiden	5004			
+Excudit Louanii	1	Leuven	2			
+Excusa Auguste Vindelicorũ	1	Augsburg	1137			
+Excusa Louanii	1	Leuven	2			
+Excusa Lugduni	1	Leiden	5004			
+Excussum Toleti	1	Toledo	8006			
+Excussum est hoc pręclarum opus in alma Parisiorum academia	1					Check
+Excusum Antuerpiæ	1	Antwerp	26			
+Excusum Coloniæ	1	Köln		2886242	Q365	Surprised it's not in the DB already, should check
+Excusum Louanii	1	Leuven	2			
+Excusum prius Lovanii, nunc autem Coloniae	1					2 places
+Excusæ Bracaræ	1					Check
+Excvdebat Antverpiae	1	Antwerp	26			
+Fiorenza	1	Florence	3184			
+Flexiæ	1	La Flêche			Q343	
+Francfordii	1	Frankfurt am Main	3255			Check
+Franckfurth und Leipzig	1					2 places
+Francof.	1	Frankfurt am Main	3255			Check
+Francof. ac Hamburgi	1					2 places
+Francofurti Cis Viadrum	1	Frankfurt an der Oder			Q4024	Could be 3256 in FM
+Francofurti ad Mœnum	1	Frankfurt am Main	3255			
+Francofurti cis Viadrum	1	Frankfurt an der Oder			Q4024	Could be 3256 in FM
+Francofvrti ad Moenvm	1	Frankfurt am Main	3255			
+Francofvrti ad Mœnum	1	Frankfurt am Main	3255			
+Francofvrti ad Mœnvm	1	Frankfurt am Main	3255			
+Franekeræ	1	Franeker	206			
+Franeqveræ	1	Franeker	206			From CERL
+Frankfurt am Main	1	Frankfurt am Main	3255			
+Fribvrgi Aventicorvm	1	Freiburg, Schweiz			Q36378	From CERL
+Fribvrgi Brisgoiae	1	Freiburg im Breisgau			Q2833	From CERL
+Gandæ	1	Gent	225			
+Gedruckt ... zur Neustadt	1					Check, too many options
+Gedruckt in der kayserlichen Statt Augspurg	1	Augsburg	1137			
+Gedruckt zu Eisleben	1	Lutherstadt Eisleben			Q484870	
+Gedruckt zu Franckfurt am Mayn	1	Frankfurt am Main	3255			
+Gedruckt zu Meyntz	1	Mainz	5409			
+Gedruckt zu Prag	1	Prague			Q1085	
+Gedruckt zu Wittemberg	1	Wittenberg	8910			
+Gedruckt zü Tübingen	1	Tübingen			Q3806	
+Gedruct Tantwerpẽ	1	Antwerp	26			
+Gedrukt tot Mechelen	1	Mechelen	409			
+Gembloux	1	Gembloux	3385			
+Geprint inde princelijcke stadt van Bruessele	1	Brussels	116			
+Geprint te Loeuen	1	Leuven	2			
+Gerundæ	1	Girona			Q7038	
+Getruckt zu Augspurg	1	Augsburg	1137			
+Getruckt zu Franckfort am Mayn	1	Frankfurt am Main	3255			
+Getruckt zu Ingolstat	1	Ingolstadt	4584			
+Getruckt zu Ingolstatt	1	Ingolstadt	4584			
+Getrückt und vollendet inn der Kayserlichen Statt Augspurg	1	Augsburg	1137			
+Ghedruckt tot Delff	1	Delft	154			
+Ghedruckt tot Loven	1	Leuven	2			
+Ghedruckt, tot Duysseldorp	1	Düsseldorf	2793			
+Ghedruct in die vermaerde uniuersiteyt ende stadt van Louen	1	Leuven	2			Check - separate for University?
+Ghedruct in die vermaerde uniuersiteyt ende stadt vã Loeuen	1	Leuven	2			Check - separate for University?
+Ghedruct in die vermaerde universiteyt ende stadt van Loeuen	1	Leuven	2			Check - separate for University?
+Ghedruct inde uniuersiteyt van Louen	1	Leuven	2			Check - separate for University?
+Ghedruct tot Louen	1	Leuven	2			
+Ghedruct tot Louẽ	1	Loué			Q35719815	Check - from CERL
+Gheprent Tantwerpen	1	Antwerp	26			
+Gheprent tot Louen	1	Leuven	2			
+Gheprent tot antwerpen	1	Antwerp	26			
+Gheprint T Antwerpẽ	1	Antwerp	26			
+Gheprint Thantwerpen	1	Antwerp	26			
+Gheprint Thantwerpen ... in Amsterdam	1	Amsterdam	17			
+Gheprint Thantwerpẽ	1	Antwerp	26			
+Gheprint t'Hantwerpen	1	Antwerp	26			
+Gheprint tot Louen	1	Leuven	2			
+Glasgow	1	Glasgow	3518			
+Gottingæ	1	Gottingen			Q3033	
+Grünwald	1	Grünwald			Q220090	Check, multiple in CERL
+Hagae Comitis	1	Den Haag	155			
+Haganoae	1	Hagenau			Q1568462	Check, a few in Wikidata 
+Hagenoæ	1	Hagenau			Q1568462	Check, a few in Wikidata 
+Hagæ-Comitis	1	Den Haag	155			
+Hal	1					Check
+Halle	1	Halle	252			
+Harderovici Gelrorum	1	Harderwijk	3914			
+Hardervici	1	Harderwijk	3914			
+Harlemi	1	Haarlem	250			
+Heidelberg	1	Heidelberg	4074			
+HelmaestadI	1	Helmstedt		2906676	Q486562	
+Helmaestadi	1	Helmstedt		2906676	Q486562	
+Helmaestadii	1	Helmstedt		2906676	Q486562	
+HelmestadI	1	Helmstedt		2906676	Q486562	
+HelsmtadI	1	Helmstedt		2906676	Q486562	
+Henricopoli	1	Wolfenbüttel	8925			From CERL
+Hermopoli	1	Hermopolis			Q732908	Check
+Hersfeld	1	Bad Hersfeld			Q16145	Check
+Ienae	1	Jena			Q3150	
+Impositus est ... in celebri vniuersitate Louaniensi ...	1	Leuven	2			
+Impressa autem sunt hæc & recognita Rursum Parrhisis	1					Paris? Check.
+Impressi in vrbe Argentina	1					Strasbourg? Check
+Impressu[m] Parisius	1	Paris	495			
+Impressum Antuerpiæ	1	Antwerp	26			
+Impressum Antverpie	1	Antwerp	26			
+Impressum Forosempronii	1					Place in Antiquity? Check
+Impressum Oppenheym	1	Oppenheim			Q518690	
+Impressum est autem Lugduni	1	Leiden	5004			
+Impressvm Coloniae Agrippinae	1	Köln		2886242	Q365	Surprised it's not in the DB already, should check
+Impressvm Vitebergae	1					
+Impressvm Vittembergæ	1					
+Impressæ Lipsiæ	1					
+Imprimé nouuellement à Paris	1	Paris	495			
+Imprinted at Antwerpe	1	Antwerp	26			
+Imprinted at London ...	1	London	5264			
+In 's Graven-hage	1	s-Gravenhage	744			
+In 'sGraven-Hage	1	s-Gravenhage	744			
+In Anuersa	1					Can't find
+In Assisi	1	Assisi			Q20103	
+In Fiorenza	1	Florence	3184			
+In Venezia :	1	Venice	8273			
+In alma Taurinensi ciuitate	1					Can't find
+In inclyta Basilea	1	Basel	1297			
+In nobili Spira	1	Speyer			Q6829	
+Insulis Flandrorum	1	Friesland	3282			From CERL
+Ipris Flandrorvm	1	Ypres		2795101	Q102728	
+Iste libellus impressus est Leydis	1	Leiden	5004			
+Iuxta copiam Thesium Lovanii	1	Leuven	2			
+Iuxta copiam thesium Lovanii	1	Leuven	2			
+Iuxta exemplar Gandavense. Lovanii	1	Leuven	2			Check
+Jenæ	1	Jena			Q3150	
+Juxta copiam Leodii	1	Liege	392			
+Juxta exemplar impressum Romæ	1	Rome	740			
+Juxta exemplaria impressa Lovanii	1	Leuven	2			
+Juxtà copiam, Coloniæ Agrippinæ	1	Köln		2886242	Q365	Surprised it's not in the DB already, should check
+Kopenhagen	1	Kopenhagen	4807			
+Lanaken	1	Lanaken	4904			
+Landishuti	1	Landshut			Q3974	
+Leiptzigk	1	Leipzig		2879139	Q2079	
+Leoardiae	1					Can't find
+Leodii,  et veneunt, Bruxellis	1					2 places
+Lille	1	Lille	375			
+Lincii	1	Lintz	5185			
+Lincij	1	Lintz	5185			
+Lindau	1	Lindau	5159			
+Lisboa Occidental	1	Lisbon			Q597	
+Lovain	1	Leuven	2			
+Lovani	1	Leuven	2			
+Lovanii ... juxta exemplar impressum Parisiis	1					2 places
+Lovanii et Bruxellis	1					2 places
+Lovanii, venduntur Bruxellis	1					2 places
+LovenI	1	Leuven	2			
+Lovvain	1	Leuven	2			
+Lugd.	1	Leiden	5004			
+Lugd. Batav.	1	Leiden	5004			
+Lugduni :	1	Leiden	5004			
+Lugduni Batavorum & Amstelodami	1					2 places
+Lugduni in Batavis	1	Leiden	5004			
+Lutetię Parisiorum	1	Paris	495			
+Lvcebvrgi	1					Luxembourg? Check
+Lvdgvni	1	Leiden	5004			
+Lvgd. Batavor.	1	Leiden	5004			
+Lvgd: Batavor.	1	Leiden	5004			
+Lvgdni	1	Leiden	5004			
+Lvgdvni :	1	Leiden	5004			
+Lvgdvni excvd.	1	Leiden	5004			
+Lvgvdvni	1	Leiden	5004			
+Lvtetiae Parisior	1	Paris	495			
+Lvtetiae Parisiorum	1	Paris	495			
+Lvtetiæ Parisiorvm	1	Paris	495			
+Maastricht	1	Maastricht	397			
+Marburgi Cattorum	1	Marburg	5470			
+Marpvrgi	1	Marburg	5470			
+Massiliæ	1					Can't find
+Matriti	1	Madrid	5392			
+Mechliniae	1	Mechelen	409			
+Men vind-ze te koop, t' Antwerpen	1	Antwerp	26			
+Men vindt se te koop tot Loven	1	Leuven	2			
+Menston	1	Menston			Q602055	
+Met vintse te koop t' Antwerpen	1	Antwerp	26			
+Mogvuntiae	1	Mainz	5409			
+MonasterI Westphaliæ	1	Münster	6007			
+Montibvs Hannoniæ	1	Bergen	61			
+Na de copye gedruckt tot Dusseldorp	1	Düsseldorf	2793			
+Namvrci	1	Namur			Q134121	
+Naples	1	Naples	6043			
+New Brunswick	1	New Brunswick			Q138338	
+Nieuwkoop	1	Nieuwkoop			Q33467336	
+Nissæ	1	Nysa			Q815721	Could also be Nis in Croatia, check.
+Norembergæ	1	Nurnberg		6556832	Q2090	
+Noviomagi Batavorum	1	Nijmegen	456			From CERL
+Offenbaci Ysenburgicorum	1	Offenback			Q3042	Check, couldn't find Ysenburgicorum
+On les vend à Lyon	1	Lyon	5364			
+Osnabrvgae	1	Osnabrück	6475			
+Osterod.	1	Osterode			Q3042	
+Parrhisijs	1	Paris	495			
+Parrisijs	1	Paris	495			
+Patavii	1					CERL has this as a variant for both Padova and Passau. Check. 
+Pictavii	1	Poitiers	6723			
+Pompelone	1					Probably Pamplona, check
+Pragae	1	Prague			Q1085	
+Printed at Lovain	1					
+Prostant Leodij	1	Liege	392			
+Prostant paruo Louanii	1	Leuven	2			
+Prostat Frãcof.	1					Not sure
+Prostat Lovanii	1	Leuven	2			
+Prostat: Bruxellis	1	Brussels	116			
+Regiomonti & Lipsiæ	1					2 places
+Ristampate in Colonia	1	Köln		2886242	Q365	Check, could be others 
+Ristampate in Liege	1	Liege	392			
+Roma	1	Rome	740			
+Rostochii	1	Rostock	7135			
+Salingiaci	1	Solingen			Q2942	
+Salmanticae	1	Salamanca			Q15695	
+Sed prostant Venetiis	1	Venice	8273			
+Straßburg	1	Strasbourg		2826178	Q6602	
+Styrae	1	Steyr				Could be 7794 or 7795 in FM
+Suivant la copie de Londres. A Amsterdam	1					2 places
+Suivant la copie imprimée a Paris	1	Paris	495			
+Sur la copie imprimée a Paris	1	Paris	495			
+T Antvverpen	1	Antwerp	26			
+T' Antwerpen	1	Antwerp	26			
+T' Hantwerpen	1	Antwerp	26			
+T'hantvverpen	1	Antwerp	26			
+Taurini	1	Turin		3165525	Q495	
+Te 's Bosch	1	's-Hertogenbosch		2747351	Q2766547	Q2766547
+Te Amsteldam	1	Amsterdam	17			
+Te Dordrecht	1	Dordrecht	2713			
+Te Dordregt	1	Dordrecht	2713			
+Te Gend	1	Gent	225			
+Te Gouda	1	Gouda	3621			
+Te Leyden	1	Leiden	5004			
+Te Louen	1	Leuven	2			
+Te Utrecht	1	Utrecht	635			
+Thantvverpen	1	Antwerp	26			
+Tornaci Nerviorvm	1	Tournai			Q173219	
+Tot Bonn	1	Bonn	1762			
+Tot Bruessel	1	Brussels	116			
+Tot Ceulen	1	Köln		2886242	Q365	Surprised it's not in the DB already, should check
+Tot Delf	1	Delft	154			
+Tot Gendt	1	Gent	225			
+Tot Haerlem	1	Haarlem	250			
+Tot Hoorn	1	Hoorn	296			
+Tot Maastricht	1	Maastricht	397			
+Tot Maestricht	1	Maastricht	397			
+Tot Oiktopolis	1					Can't find
+Tot Roomen	1	Rome	740			Variant from CERL
+Tot naemloos	1					Can't find
+Traiecti	1	Utrecht	635			
+Trier	1	Trier	8080			
+Trippoli	1				Q3579	Check. Tripoli also listed as fictitious name for Ulm in CERL
+Tvrnoni	1	Tournon-sur-Rhône			Q213155	
+Ultrajecti	1	Utrecht	635			
+Utrecht	1	Utrecht	635			
+VVirceburgi	1					Can't find
+Vaenundantur Lovanij	1	Leuven	2			
+Valencia	1	Valencia	8175			Should check
+Valentiae Edetanorum	1	Valencia	8175			Should check
+Valladolid	1	Valladolid	8185			
+Venduntur Bruxellis	1	Brussels	116			
+Veneunt Antuerpię ...	1	Antwerp	26			
+Veneunt Lovanii	1	Leuven	2			
+Veneũt Lugd.	1	Leiden	5004			
+Venundantur Louanii	1	Leuven	2			
+Venundantur Louanij	1	Leuven	2			
+Venundantur Lovanii	1	Leuven	2			
+Venundantur Lovanij	1	Leuven	2			
+Venundatur vbi impressa est Parisiis	1	Paris	495			
+Venundãtur Louanii	1	Leuven	2			
+Vesaliæ Clivorum	1	Wesel	8795			Variant from CERL
+Vicetiæ	1	Vicenza			Q6537	Variant from CERL
+Vienne	1					Check. Could be Vienna, Austria, or France (Vienne, Vianen)
+Viennæ	1					Check. Could be Vienna, Austria, or France (Vienne, Vianen)
+Viennæ Avstriæ	1	Vienna	8347			Check, not sure if this is Vienna or Vienne
+Vincentiæ	1	Vicenza			Q6537	Variant from CERL
+Vindobonæ	1	Vienna	8347			Check, not sure if this fm_id is for Vienna Austria or another Vienne
+Vitebergæ	1	Wittenberg	8910			
+Vitembergae	1	Wittenberg	8910			
+Vittembergae	1	Wittenberg	8910			
+Vrbini	1	Urbino			Q2759	
+Vuittenbergæ	1	Wittenberg	8910			
+Vænit Lutetiæ	1	Paris	495			
+Vænundantur Lovani	1	Leuven	2			
+Vænũdant. Louanij	1	Leuven	2			
+Vęnendantur Louanij	1	Leuven	2			
+Vęnundantur Louanij	1	Leuven	2			
+W Berdyczowie	1	Berditschew			Q158799	Variant from CERL
+Wevelgem	1	Wevelgem	8825			
+Wien	1	Vienna	8347			Check, not sure if this fm_id is for Vienna Austria or another Vienne
+Wildert	1					Check, there's one in Belgium and Netherlands
+Wirceburgi	1	Würzburg	8972			
+Wircebvrgi	1	Würzburg	8972			
+Wittebergæ	1	Wittenberg	8910			
+Wittenberg	1	Wittenberg	8910			
+Wittenbergæ	1	Wittenberg	8910			
+Wovrdæ	1					Can't find
+Wratislaviae	1	Wroclaw	8961			
+Wurceburgi	1	Würzburg	8972			
+Ypris Flandrorvm	1	Ypres		2795101	Q102728	
+Zů Strasszburg	1	Strasbourg		2826178	Q6602	
+[1516]	1					
+[Antwerpen?]	1	Antwerp	26			
+[Bazel]	1	Basel	1297			
+[Brussel?]	1	Brussels	116			
+[Eisleben]	1	Lutherstadt Eisleben			Q484870	
+[Franckfurt am Mayn]	1	Frankfurt am Main	3255			
+[Genevae]	1	Geneva	3400			
+[Graz?]	1	Graz			Q13298	
+[Haarlem]	1	Haarlem	250			
+[Ingolstadt]	1	Ingolstadt	4584			
+[Jena]	1	Jena			Q3150	
+[Köl,]	1					Koln maybe?
+[København]	1	Kopenhagen	4807			
+[Leiden?]	1	Leiden	5004			
+[Liège]	1	Liege	392			
+[London]	1	London	5264			
+[Louvain]	1	Leuven	2			
+[Lovanii]	1	Leuven	2			
+[Lugduni Batavorum]	1	Leiden	5004			
+[Lyon]:	1	Lyon	5364			
+[Milano]	1	Milan	5775			
+[Nürnberg]	1	Nurnberg		6556832	Q2090	
+[Oxford]	1	Oxford	6572			
+[Roma]	1	Rome	740			
+[Schlettstadt]	1	Sélestat	Q22737			
+[Speyer]	1	Speyer			Q6829	
+[Trnava]	1	Trnava			Q26175	
+[Utrecht]	1	Utrecht	635			
+[Valencia]	1	Valencia	8175			Should check
+[Zürich]	1	Zürich	9072			
+[[place of publication not identified]]	1	unknown				
+[lieu de publication inconnu] :	1	unknown				
+[lieu de publication inconnu].	1	unknown				
+[place of distribution not identified]	1	unknown				
+apud Ioannem Kinckivm	1					Not a place?
+ende ment vintse te coop tot Amsterdam	1	Amsterdam	17			
+prostant Bruxellis	1	Brussels	116			
+t'  Antwerpen	1	Antwerp	26			
+t' Antvverpen	1	Antwerp	26			
+t'Amsteldam	1	Amsterdam	17			
+t'Antvverpen	1	Antwerp	26			
+t'Hantvverpen	1	Antwerp	26			
+t'Hantwerpen	1	Antwerp	26			
+tot 's Bosch	1	's-Hertogenbosch		2747351	Q2766547	Q2766547
+à Bruges	1	Bruges	114			

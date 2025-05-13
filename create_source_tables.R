@@ -1,38 +1,78 @@
 source('extract_marc.R')
 
-xml_file_path = "/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/9 Thesis sheet/Theses_olduniversity_DIGCOL.xml"
-caa_xml_file_path = '/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/5 Collectio Academica Antiqua (through ALMA in stead of the fraction of Digitized items on Lovaniensia)/20230728_Alma_Caa_all.xml'
-md_xml_file_path = "/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/4 Magister Dixit (through ALMA of the KU Leuven libraries' Special Collections)/20230728_Alma_Lecturenotes_digital.xml"
+xml_file_path = "/Users/ghum-m-ae231206/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/9 Thesis sheet/Theses_olduniversity_DIGCOL.xml"
+caa_xml_file_path = '/Users/ghum-m-ae231206/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/5 Collectio Academica Antiqua (through ALMA in stead of the fraction of Digitized items on Lovaniensia)/20230728_Alma_Caa_all.xml'
+md_xml_file_path = "/Users/ghum-m-ae231206/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/4 Magister Dixit (through ALMA of the KU Leuven libraries' Special Collections)/20230728_Alma_Lecturenotes_all.xml"
 lec_xml_file_path = "/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/5 Collectio Academica Antiqua (through ALMA in stead of the fraction of Digitized items on Lovaniensia)/20230728_Alma_Lecturenotes_all.xml"
 lov_xml_file_path = "/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/5 Collectio Academica Antiqua (through ALMA in stead of the fraction of Digitized items on Lovaniensia)/Lovaniensia_DIGCOL.xml"
 
 
-sources_table = readxl::read_excel('/Users/Yann/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/Sources - Yann/draft_sources_tables/sources_table_export.xlsx')
+sources_table = readxl::read_excel('/Users/ghum-m-ae231206/Library/CloudStorage/OneDrive-KULeuven/Shared_data_studium/Sources - Yann/draft_sources_tables/sources_table_export.xlsx')
 sources_table = sources_table %>% filter(!is.na(Source_ID_pk))
 
+library(ISOcodes)
+
+xml_file <- read_xml(xml_file_path)
+theses_tags_001 <- xml_find_all(xml_file, "//record/controlfield[@tag='001']")
+theses_values_001 <- xml_text(theses_tags_001)
+
+theses_tags_008 <- xml_find_all(xml_file, "//record/controlfield[@tag='008']")
+theses_values_008 <- xml_text(theses_tags_008)
+
+theses_001008 = tibble(tag_001 = theses_values_001, tag_008 = theses_values_008)
+
 theses_100 = extract_marc21_data('100',xml_file_path)
+theses_041 = extract_marc21_data('041',xml_file_path)
 theses_245 = extract_marc21_data('245',xml_file_path)
 theses_246 = extract_marc21_data('246',xml_file_path)
 theses_264 = extract_marc21_data('264', xml_file_path)
 theses_300 = extract_marc21_data('300', xml_file_path)
+theses_518 = extract_marc21_data('518', xml_file_path)
 theses_340 = extract_marc21_data('340', xml_file_path)
 theses_655 = extract_marc21_data('655', xml_file_path)
 theses_700 = extract_marc21_data('700',xml_file_path)
+theses_710 = extract_marc21_data('710',xml_file_path)
 theses_856 = extract_marc21_data('856',xml_file_path)
 theses_546 = extract_marc21_data('546', xml_file_path)
 theses_952 = extract_marc21_data('952', xml_file_path)
 
+xml_file <- read_xml(caa_xml_file_path)
+caa_tags_001 <- xml_find_all(xml_file, "//record/controlfield[@tag='001']")
+caa_values_001 <- xml_text(caa_tags_001)
+
+caa_tags_008 <- xml_find_all(xml_file, "//record/controlfield[@tag='008']")
+caa_values_008 <- xml_text(caa_tags_008)
+
+caa_001008 = tibble(tag_001 = caa_values_001, tag_008 = caa_values_008)
+
+
 caa_100 = extract_marc21_data('100',caa_xml_file_path)
+caa_008 = extract_marc21_data('008',caa_xml_file_path)
 caa_245 = extract_marc21_data('245',caa_xml_file_path)
 caa_246 = extract_marc21_data('246',caa_xml_file_path)
 caa_264 = extract_marc21_data('264', caa_xml_file_path)
 caa_300 = extract_marc21_data('300', caa_xml_file_path)
 caa_340 = extract_marc21_data('340', caa_xml_file_path)
+caa_041 = extract_marc21_data('041', caa_xml_file_path)
+caa_534 = extract_marc21_data('534', caa_xml_file_path)
+caa_650 = extract_marc21_data('650', caa_xml_file_path)
 caa_655 = extract_marc21_data('655', caa_xml_file_path)
 caa_700 = extract_marc21_data('700',caa_xml_file_path)
+caa_710 = extract_marc21_data('710',caa_xml_file_path)
 caa_856 = extract_marc21_data('856',caa_xml_file_path)
 caa_546 = extract_marc21_data('546', caa_xml_file_path)
 caa_952 = extract_marc21_data('952', caa_xml_file_path)
+
+
+xml_file <- read_xml(md_xml_file_path)
+md_tags_001 <- xml_find_all(xml_file, "//record/controlfield[@tag='001']")
+md_values_001 <- xml_text(md_tags_001)
+
+md_tags_008 <- xml_find_all(xml_file, "//record/controlfield[@tag='008']")
+md_values_008 <- xml_text(md_tags_008)
+
+md_001008 = tibble(tag_001 = md_values_001, tag_008 = md_values_008)
+
 
 md_100 = extract_marc21_data('100',md_xml_file_path)
 md_245 = extract_marc21_data('245',md_xml_file_path)
@@ -41,9 +81,12 @@ md_264 = extract_marc21_data('264', md_xml_file_path)
 md_300 = extract_marc21_data('300', md_xml_file_path)
 md_340 = extract_marc21_data('340', md_xml_file_path)
 md_505 = extract_marc21_data('505', md_xml_file_path)
+md_544 = extract_marc21_data('544', md_xml_file_path)
 md_655 = extract_marc21_data('655', md_xml_file_path)
 md_700 = extract_marc21_data('700',md_xml_file_path)
+md_852 = extract_marc21_data('852',md_xml_file_path)
 md_856 = extract_marc21_data('856',md_xml_file_path)
+md_902 = extract_marc21_data('902',md_xml_file_path)
 md_546 = extract_marc21_data('546', md_xml_file_path)
 md_952 = extract_marc21_data('952', md_xml_file_path)
 
